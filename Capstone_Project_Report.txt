@@ -1,0 +1,12 @@
+INTRODUCTION/BUSINESS PROBLEM
+
+Target Audience: Tourists 
+
+Problem statement: Tourists don't know about the places they need and should visit when travelling.
+
+Solution: I am solving the problem for Tourists to let them know about the top most rated and famous areas of the Toronto City. So that when Tourists are here they can make the most of it.
+
+
+DATA SECTION
+
+The Dataset will be used from Foursquare API, the dataset will contain places and ratings of the Toronto City.
